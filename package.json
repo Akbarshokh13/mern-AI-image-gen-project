@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "bson": "^5.1.0"
+    "bson": "^5.0.0"
   }
 }
